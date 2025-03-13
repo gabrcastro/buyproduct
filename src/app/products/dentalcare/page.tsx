@@ -80,7 +80,7 @@ export default function SecandoEmCasaPage() {
           <div className="flex flex-col w-[95%] lg:w-[70%] text-center">
             <div className="flex flex-col items-center justify-center w-full">
               <h3 className="font-bold text-neutral-50 text-xl lg:text-3xl">
-                💡Discover the Secret to a Healthier, Problem-Free Smile!
+                Discover the Secret to a Healthier, Problem-Free Smile!
               </h3>
               <p className="font-normal text-neutral-50 text-base lg:text-lg text-center my-10">
                 Did you know that issues like bleeding gums, bad breath, and
@@ -113,9 +113,9 @@ export default function SecandoEmCasaPage() {
 
         <div className="p-0 lg:p-10 flex flex-col gap-8 row-start-2 items-center ">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 w-[95%] lg:w-[80%]">
-            <div className="flex flex-col items-center justify-center w-full">
+            <div className="flex flex-col items-center justify-center w-full text-center lg:text-start">
               <h3 className="font-bold text-neutral-950 text-xl lg:text-3xl">
-                💡 Dentists Are Amazed by This New Method for Healthy Gums!
+                Dentists Are Amazed by This New Method for Healthy Gums!
               </h3>
               <p className="font-normal text-neutral-950 text-base lg:text-lg mt-5">
                 Have you ever felt pain or discomfort while brushing your teeth?
