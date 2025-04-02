@@ -6,9 +6,9 @@ export default function Home() {
           <li className="mb-2">
             <a href="/thegeniuswave">The Genius Wave</a>
           </li>
-          <li>
+          {/* <li>
             <a href="/vertigenics">Vertigenics</a>
-          </li>
+          </li> */}
         </ol>
       </main>
     </div>
