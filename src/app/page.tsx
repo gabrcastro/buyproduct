@@ -4,11 +4,8 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            <a href="/thegeniuswave">The Genius Wave</a>
+            <a href="/primebiome">PrimeBiome</a>
           </li>
-          {/* <li>
-            <a href="/vertigenics">Vertigenics</a>
-          </li> */}
         </ol>
       </main>
     </div>
