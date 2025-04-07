@@ -1,3 +1,5 @@
+"use client";
+
 import CookiesComponent from "./cookies";
 
 interface IPageDefaultProps {
