@@ -12,7 +12,7 @@ export default function PrimeBiomePage() {
         isMobile ? "/bgs/primebiomemobile.png" : "/bgs/primebiome.png"
       }
       color="#F08688"
-      hopLink=""
+      hopLink="https://e5d99yv6-llfdv5gv8q5fb3ioa.hop.clickbank.net"
     />
   );
 }
