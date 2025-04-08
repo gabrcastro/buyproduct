@@ -24,7 +24,23 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=AW-11544439329"
+        ></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'AW-11544439329');
+              `,
+          }}
+        />
+      </body>
     </html>
   );
 }
